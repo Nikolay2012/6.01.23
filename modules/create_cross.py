@@ -6,7 +6,7 @@ t2.color("red")
 t2.speed(0)
 t2.hideturtle()
 
-def cross(x, y):
+def make_cross(x, y):
     x_cor = x
     y_cor = y
     step = 100
